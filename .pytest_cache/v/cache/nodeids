@@ -1,0 +1,5 @@
+[
+  "tests/test_api_mocker.py::TestMocker::test_basic",
+  "tests/test_api_mocker.py::TestMocker::test_empty",
+  "tests/test_api_mocker.py::TestMocker::test_type_error"
+]
